@@ -34,7 +34,7 @@ const LAndingpage = () => {
           <Testimonials/>
           <Clients/>
           <CTA/>
-          <Footer/>     
+          {/* <Footer/>      */}
         </div>
       </div>
     </div>
