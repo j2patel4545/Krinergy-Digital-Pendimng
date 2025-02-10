@@ -117,52 +117,56 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "Home",
+        link: "/",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        name: "About",
+        link: "/About",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
+        name: "Contact",
+        link: "/Contact",
       },
       {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        name: "Services",
+        link: "/Services",
       },
       {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        name: "PrivacyPolicy",
+        link: "/PrivacyPolicy",
+      },
+      {
+        name: "RefundPolicy",
+        link: "/RefundPolicy",
       },
     ],
   },
-  {
-    title: "Community",
-    links: [
-      {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
-      },
-      {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
-      },
-      {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
-      },
-      {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
-    ],
-  },
+  // {
+  //   title: "Community",
+  //   links: [
+  //     {
+  //       name: "Help Center",
+  //       link: "https://www.hoobank.com/help-center/",
+  //     },
+  //     {
+  //       name: "Partners",
+  //       link: "https://www.hoobank.com/partners/",
+  //     },
+  //     {
+  //       name: "Suggestions",
+  //       link: "https://www.hoobank.com/suggestions/",
+  //     },
+  //     {
+  //       name: "Blog",
+  //       link: "https://www.hoobank.com/blog/",
+  //     },
+  //     {
+  //       name: "Newsletters",
+  //       link: "https://www.hoobank.com/newsletters/",
+  //     },
+  //   ],
+  // },
   {
     title: "Partner",
     links: [
