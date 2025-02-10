@@ -26,7 +26,7 @@ function UserRouter() {
 
 
             </Routes>
-            {/* <Footer/>          */}
+            <Footer/>         
         </BrowserRouter>
       
     </div>
