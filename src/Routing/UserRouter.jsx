@@ -8,6 +8,7 @@ import Contact from '../Pages/Contact'
 import ServiceSection from '../Pages/ServiceSection'
 import PrivacyPolicy from '../Pages/PrivacyPolicy'
 import RefundPolicy from '../Pages/RefundPolicy'
+import TermsConditions from '../Pages/TermsConditions'
 
 function UserRouter() {
   return (
@@ -21,6 +22,7 @@ function UserRouter() {
                 <Route path='/Services' element={<ServiceSection/>} />
                 <Route path='/PrivacyPolicy' element={<PrivacyPolicy/>} />
                 <Route path='/RefundPolicy' element={<RefundPolicy/>} />
+                <Route path='/term' element={<TermsConditions/>} />
 
 
 
