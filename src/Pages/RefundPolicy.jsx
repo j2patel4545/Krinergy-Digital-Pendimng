@@ -5,9 +5,9 @@ const RefundPolicy = () => {
     <div className="container py-10 bg-[#00040F] justify-center text-white pt-32 mx-auto w-screen px-4 sm:px-8">
       <h1 className="text-3xl -ml-28 flex justify-center w-screen font-bold text-center mb-6">Refund Policy</h1>
       <p className="mb-4">
-        At Digifarm Technologies, we are committed to providing high-quality IT services to our clients.
+        At krinergy Digital Technologies, we are committed to providing high-quality IT services to our clients.
         However, we understand that there may be circumstances under which you wish to request a refund. 
-        This Refund Policy outlines the conditions under which refunds may be issued for services provided by Digifarm Technologies.
+        This Refund Policy outlines the conditions under which refunds may be issued for services provided by krinergy Digital.
       </p>
       
       <section className="mb-8">
@@ -50,7 +50,7 @@ const RefundPolicy = () => {
         <h2 className="text-2xl font-semibold mb-2">5. How to Request a Refund</h2>
         <p>If you wish to request a refund, please follow these steps:</p>
         <ul className="list-inside list-decimal ml-4">
-          <li>Contact us at <a href="mailto:info@digifarm.in" className="text-blue-600">info@digifarm.in</a> or 9510704906 within 7 days of the issue occurring.</li>
+          <li>Contact us at Mail id : krinergynavsari@gmail.com  or +91 9313660144 within 7 days of the issue occurring.</li>
           <li>Provide a detailed description of the issue and any supporting documentation, such as emails, project files, or communications related to the service.</li>
           <li>We will review your request and determine if it is eligible for a refund based on the circumstances outlined above.</li>
         </ul>
