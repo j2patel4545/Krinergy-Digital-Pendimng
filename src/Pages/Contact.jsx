@@ -10,8 +10,10 @@ const Contact = () => {
       transition={{ duration: 0.8 }}
     >
       <div className="w-full max-w-4xl p-8 bg-gray-800 rounded-2xl shadow-2xl text-white">
-        <h2 className="text-4xl font-bold text-center mb-6 text-secondary">Contact Us</h2>
-        
+        <h2 className="text-4xl font-bold text-center mb-6 text-secondary">
+          Contact Us
+        </h2>
+
         <div className="grid md:grid-cols-2 gap-8">
           {/* Contact Info */}
           <motion.div
@@ -27,6 +29,13 @@ const Contact = () => {
             <div className="bg-gray-700 p-6 rounded-lg shadow-lg">
               <p className="text-lg font-semibold">Email:</p>
               <p className="text-xl text-secondary">krinergynavsari@gmail.com</p>
+            </div>
+            <div className="bg-gray-700 p-6 rounded-lg shadow-lg">
+              <p className="text-lg font-semibold">Address:</p>
+              <p className="text-xl text-secondary">
+                Meet Complex, 1st Floor, Shop No. 10,<br />
+                Prajapati Wadi, Vijalpore, Navsari.
+              </p>
             </div>
           </motion.div>
 
