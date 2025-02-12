@@ -5,7 +5,7 @@ const TermsConditions = () => {
             
             <section className="mb-4">
                 <h2 className="text-xl font-semibold">1. Services Provided</h2>
-                <p>DigiFarm Technologies provides services such as software development, IT consulting, network management, and cybersecurity solutions. The specific services to be provided will be outlined in the contract or project scope agreed upon between the company and the client.</p>
+                <p>Krinergy Digital provides services such as software development, IT consulting, network management, and cybersecurity solutions. The specific services to be provided will be outlined in the contract or project scope agreed upon between the company and the client.</p>
             </section>
 
             <section className="mb-4">
