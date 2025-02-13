@@ -38,9 +38,9 @@ const Navbar = () => {
         <Link className='text-white' to='/About'>About</Link>
         <Link className='text-white' to='/Contact'>Contact</Link>
         <Link className='text-white' to='/Services'>Services</Link>
-        <Link className='text-white' to='/PrivacyPolicy'>PrivacyPolicy</Link> 
-        <Link className='text-white' to='/RefundPolicy'>RefundPolicy</Link>
-        <Link className='text-white' to='/term'>TermsConditions</Link>
+        <Link className='text-white' to='/PrivacyPolicy'>Privacy Policy</Link> 
+        <Link className='text-white' to='/RefundPolicy'>Refund Policy</Link>
+        <Link className='text-white' to='/term'>Terms & Conditions</Link>
 
       </ul>
 
