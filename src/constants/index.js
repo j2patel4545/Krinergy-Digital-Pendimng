@@ -133,12 +133,16 @@ export const footerLinks = [
         link: "/Services",
       },
       {
-        name: "PrivacyPolicy",
+        name: "Privacy Policy",
         link: "/PrivacyPolicy",
       },
       {
-        name: "RefundPolicy",
+        name: "Refund Policy",
         link: "/RefundPolicy",
+      },
+      {
+        name: "Terms & Conditions",
+        link: "/term",
       },
     ],
   },
