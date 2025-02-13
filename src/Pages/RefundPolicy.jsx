@@ -95,25 +95,37 @@ const RefundPolicy = () => {
         <h2 className="text-2xl font-semibold mb-2">5. How to Request a Refund</h2>
         <p>If you wish to request a refund, follow these steps:</p>
         <ul className="list-decimal ml-4 mt-2">
-          <li>Contact us at krinergynavsari@gmail.com or +91 9313660144.</li>
-          <li>Provide details and supporting documents about the issue.</li>
-          <li>We will review and respond within 7 business days.</li>
+          <li>Contact us at Mail id : krinergynavsari@gmail.com or +91 9313660144 within 7 days of the issue occurring.
+          </li>
+          <li>Provide a detailed description of the issue and any supporting documentation, such as emails, project files, or communications related to the service.
+          </li>
+          <li>We will review your request and determine if it is eligible for a refund based on the circumstances outlined above.</li>
         </ul>
       </motion.section>
 
       <motion.section className="mb-8" variants={fadeInUp}>
         <h2 className="text-2xl font-semibold mb-2">6. Refund Process</h2>
         <p>
-          Once approved, the refund will be processed using the original payment
-          method. Please allow up to 15 business days for processing.
+        Once your refund request has been reviewed, we will notify you of the decision within 7 business days. If your request is approved, the refund will be processed using the same method of payment used for the original transaction. Please allow up to 15 business days for the refund to appear in your account, depending on the payment method.
         </p>
+      </motion.section>
+      <motion.section className="mb-8" variants={fadeInUp}>
+        <h2 className="text-2xl font-semibold mb-2">7. Partial Refunds</h2>
+        <p>
+        In some cases, we may issue a partial refund based on the amount of work completed. If services were partially provided but not in line with the agreed-upon specifications, a partial refund may be offered for the unfulfilled portion of the project.
+
+</p>
+      </motion.section>
+      <motion.section className="mb-8" variants={fadeInUp}>
+        <h2 className="text-2xl font-semibold mb-2">8.Disputes</h2>
+        <p>
+        If a refund request cannot be resolved through our customer support process, the dispute will be handled in accordance with the dispute resolution procedures outlined in our Terms and Conditions.        </p>
       </motion.section>
 
       <motion.section className="mb-8" variants={fadeInUp}>
         <h2 className="text-2xl font-semibold mb-2">9. Changes to This Refund Policy</h2>
         <p>
-          We reserve the right to update this policy at any time. Changes will
-          be posted on this page.
+        We reserve the right to modify or update this Refund Policy at any time. Any changes will be posted on this page with an updated “Last Updated” date. It is your responsibility to review this policy periodically to stay informed of any changes.
         </p>
       </motion.section>
     </motion.div>
